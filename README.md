@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o projeto online clicando no link abaixo:
 
-👉 [Jogo Amigo Secreto](amigo-secreto-iota-sable.vercel.app)
+👉 [Jogo Amigo Secreto](amigo-secreto-jwjs8refz-mariageovannavs-projects.vercel.app)
 &nbsp;  
 &nbsp;  
 
